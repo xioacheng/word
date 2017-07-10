@@ -1,0 +1,9 @@
+D:\MyStudying\c#project\WindowsForm\BmpEdit\BmpEdit\bin\Debug\BmpEdit.exe.config
+D:\MyStudying\c#project\WindowsForm\BmpEdit\BmpEdit\bin\Debug\BmpEdit.exe
+D:\MyStudying\c#project\WindowsForm\BmpEdit\BmpEdit\bin\Debug\BmpEdit.pdb
+D:\MyStudying\c#project\WindowsForm\BmpEdit\BmpEdit\obj\Debug\BmpEdit.csprojResolveAssemblyReference.cache
+D:\MyStudying\c#project\WindowsForm\BmpEdit\BmpEdit\obj\Debug\BmpEdit.Form1.resources
+D:\MyStudying\c#project\WindowsForm\BmpEdit\BmpEdit\obj\Debug\BmpEdit.Properties.Resources.resources
+D:\MyStudying\c#project\WindowsForm\BmpEdit\BmpEdit\obj\Debug\BmpEdit.csproj.GenerateResource.Cache
+D:\MyStudying\c#project\WindowsForm\BmpEdit\BmpEdit\obj\Debug\BmpEdit.exe
+D:\MyStudying\c#project\WindowsForm\BmpEdit\BmpEdit\obj\Debug\BmpEdit.pdb
